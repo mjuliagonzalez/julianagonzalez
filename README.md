@@ -1,3 +1,4 @@
+![webdeveloperjuliana](https://github.com/mjuliagonzalez/julianagonzalez/assets/114434161/14199579-c55f-4b33-9d23-6360b52eb115)
 <h1 align="center">Hola 👋, mi nombre es: Juliana Gonzalez</h1>
 <h3 align="center">Soy frontend developer (Amo diseñar y desarrollar)</h3>
 
